@@ -9,8 +9,8 @@ export default function Home() {
     <main>
         <nav className="navbar navbar-light bg-primary">
             <div className="container-fluid">
-                <a className="navbar-brand text-white" href="#">
-                    <img src="/app/skyportal_logo.png" alt="Logo" width="30" height="24" className="d-inline-block align-text-top"/>
+                <a className="navbar-brand text-white">
+                    <img src="https://imgs.search.brave.com/HPorcv6e7WXHcRjDG46V8XPJNe2Sp73oI4DHxdSmZmQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9za3lw/b3J0YWwuaW8vc3Rh/dGljL3NreXBvcnRh/bF9sb2dvLnBuZw" width="30" height="24" className="d-inline-block align-text-top"/>
                     SkyPortal - Internship Project
                 </a>
             </div>
